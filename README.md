@@ -1,5 +1,3 @@
-# IsabelaMiranda-Women-s-Rights
-<!DOCTYPE html>
 <html>
 <head>
 <title>Women's Rights!</title>
