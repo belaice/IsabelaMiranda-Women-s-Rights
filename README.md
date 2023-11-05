@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Women's Rights!</title>
 </head>
 <body>
 <body style="background-color:#BF6AFF;"></body>
