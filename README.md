@@ -38,8 +38,10 @@
 <h2 style="color:gold;text-align:right;">RA9262 or the Anti-Violence Against Women and Their Children Act of 2004</h2>
 <h3 style="text-align:right;">It is a law the seeks to address the prevalence of violence against women and their children (VAWC) by their intimate partners like their husband or ex-husband, live-in partner or former live-in partner,  boyfriend/girlfriend or ex-boyfriend/ex-girlfriend, dating partner or former dating partner.</h3>
 <br>
+  <br>
 <h3 style="color:gold;">About me<br>Isabela Miranda<br>ICT-11A</h3>
 <h3 style="color:gold;">Contact Me<br>0935-145-1648</h3>
 <h3 style="color:gold;">Email<br> @belaice24@gmail.com</h3>
+  
 </body>
 </html>
